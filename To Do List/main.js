@@ -11,8 +11,8 @@ document.addEventListener('DOMContentLoaded', () => {
         events: [
     
             { 
-                start: '2023-09-22', 
-                end: '2023-09-23' 
+                // start: '2023-09-22', 
+                // end: '2023-09-23' 
             }
         ]
     });
